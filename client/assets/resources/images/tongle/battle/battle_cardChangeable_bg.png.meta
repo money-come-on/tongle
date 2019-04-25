@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "324be364-0183-425d-bce8-73634fb1bc30",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "battle_cardChangeable_bg": {
+      "ver": "1.0.3",
+      "uuid": "b8678f41-317c-46c6-8f1d-bc33efa24f01",
+      "rawTextureUuid": "324be364-0183-425d-bce8-73634fb1bc30",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 88,
+      "height": 108,
+      "rawWidth": 88,
+      "rawHeight": 108,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a44562c5-102e-49e4-a53f-f8436ceae110",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "person_battleTitle_bg": {
+      "ver": "1.0.3",
+      "uuid": "aff38d64-c158-4ad8-861c-ca2251905506",
+      "rawTextureUuid": "a44562c5-102e-49e4-a53f-f8436ceae110",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 640,
+      "height": 60,
+      "rawWidth": 640,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

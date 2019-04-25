@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cff318ae-cacd-4c62-906d-7bb6d3c7d63c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "hotfix_logo": {
+      "ver": "1.0.3",
+      "uuid": "faeb44a7-8aaa-4ea4-8244-d554088d925b",
+      "rawTextureUuid": "cff318ae-cacd-4c62-906d-7bb6d3c7d63c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 276,
+      "height": 83,
+      "rawWidth": 276,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

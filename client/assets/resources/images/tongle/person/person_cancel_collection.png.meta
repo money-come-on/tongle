@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "1b1c6c5c-39a4-4634-98b6-add8aa16d6fe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "person_cancel_collection": {
+      "ver": "1.0.3",
+      "uuid": "12c4b252-78e5-4277-a255-f844bc309d73",
+      "rawTextureUuid": "1b1c6c5c-39a4-4634-98b6-add8aa16d6fe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 108,
+      "height": 108,
+      "rawWidth": 109,
+      "rawHeight": 109,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

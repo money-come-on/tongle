@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "23fb5ac3-df14-40d0-a8b0-00ee6a7a1273",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "niu_money_icon": {
+      "ver": "1.0.3",
+      "uuid": "e41d1445-b63f-457b-a9b5-827572b2a2ba",
+      "rawTextureUuid": "23fb5ac3-df14-40d0-a8b0-00ee6a7a1273",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 34,
+      "height": 35,
+      "rawWidth": 34,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

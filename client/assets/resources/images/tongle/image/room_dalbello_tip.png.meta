@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f80ebdeb-10af-4fc1-a96e-1fe679c40e7b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "room_dalbello_tip": {
+      "ver": "1.0.3",
+      "uuid": "dc2558d0-a2f8-42b9-9e93-2056f785e09f",
+      "rawTextureUuid": "f80ebdeb-10af-4fc1-a96e-1fe679c40e7b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 47,
+      "height": 58,
+      "rawWidth": 48,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

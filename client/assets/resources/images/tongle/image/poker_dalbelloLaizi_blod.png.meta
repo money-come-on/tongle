@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6e66a204-3295-455c-90ff-23e86b52b4aa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "poker_dalbelloLaizi_blod": {
+      "ver": "1.0.3",
+      "uuid": "da217678-7d3c-4211-8b12-373bebb46c15",
+      "rawTextureUuid": "6e66a204-3295-455c-90ff-23e86b52b4aa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 22,
+      "rawWidth": 114,
+      "rawHeight": 22,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

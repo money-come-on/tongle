@@ -1,0 +1,1 @@
+//{"CreatorRateWith10":60,"AaRateWith10":15,"CreatorRateWith15":80,"AaRateWith15":20,"CreatorRateWith20":110,"AaRateWith20":28,"CreatorRateWith30":150,"AaRateWith30":38}

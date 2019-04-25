@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3b21e137-1841-46db-936c-e55770d47f8c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "special_dalbello_changeCard1": {
+      "ver": "1.0.3",
+      "uuid": "6fed88df-45dc-4bbd-801d-a22bebe7ebcb",
+      "rawTextureUuid": "3b21e137-1841-46db-936c-e55770d47f8c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 69,
+      "height": 98,
+      "rawWidth": 70,
+      "rawHeight": 98,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "20c28102-d1f6-484c-83bf-ffdc085c5835",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "niu_banker_animation_1": {
+      "ver": "1.0.3",
+      "uuid": "fb6df124-df9f-44ff-a585-08a8f95edb3f",
+      "rawTextureUuid": "20c28102-d1f6-484c-83bf-ffdc085c5835",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 139,
+      "height": 140,
+      "rawWidth": 139,
+      "rawHeight": 140,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

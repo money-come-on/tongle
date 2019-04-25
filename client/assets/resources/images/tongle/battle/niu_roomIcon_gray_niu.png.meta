@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2f12e2cd-26ec-4532-a48f-09cc94fde0f0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "niu_roomIcon_gray_niu": {
+      "ver": "1.0.3",
+      "uuid": "93b41195-e90b-4c5a-bf33-ee4a99089c73",
+      "rawTextureUuid": "2f12e2cd-26ec-4532-a48f-09cc94fde0f0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 75,
+      "rawWidth": 142,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

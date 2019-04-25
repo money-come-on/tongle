@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8a5f0a4c-565a-4caa-8a01-16e7308f52b1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "battle_bg_fiveCards_2": {
+      "ver": "1.0.3",
+      "uuid": "7e13ba77-d4db-4bda-a4ee-059a97f4b729",
+      "rawTextureUuid": "8a5f0a4c-565a-4caa-8a01-16e7308f52b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 564,
+      "height": 162,
+      "rawWidth": 565,
+      "rawHeight": 163,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

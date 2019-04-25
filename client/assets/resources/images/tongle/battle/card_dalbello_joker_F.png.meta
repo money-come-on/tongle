@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "fc1243f3-2d1d-42f4-82cb-4841438922b9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "card_dalbello_joker_F": {
+      "ver": "1.0.3",
+      "uuid": "d2f50a1e-a36c-4408-8989-dca371622994",
+      "rawTextureUuid": "fc1243f3-2d1d-42f4-82cb-4841438922b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 15,
+      "height": 82,
+      "rawWidth": 15,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

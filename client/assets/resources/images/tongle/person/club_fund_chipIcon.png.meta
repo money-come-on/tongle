@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a26b89f5-21f3-424a-a984-bc2233a97dda",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "club_fund_chipIcon": {
+      "ver": "1.0.3",
+      "uuid": "bd1702ae-bf18-4a7f-ba35-2d20c3eb8e22",
+      "rawTextureUuid": "a26b89f5-21f3-424a-a984-bc2233a97dda",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 33,
+      "height": 33,
+      "rawWidth": 33,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

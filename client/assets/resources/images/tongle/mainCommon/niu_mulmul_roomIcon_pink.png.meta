@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5631cf29-caf0-41ad-82bb-99770ca1ffee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "niu_mulmul_roomIcon_pink": {
+      "ver": "1.0.3",
+      "uuid": "3bb4d144-9425-418f-b9ec-40c73a3f2ee0",
+      "rawTextureUuid": "5631cf29-caf0-41ad-82bb-99770ca1ffee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 162,
+      "height": 39,
+      "rawWidth": 162,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

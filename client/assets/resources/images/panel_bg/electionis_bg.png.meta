@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6051780e-a922-43cd-a8d2-acb58171968a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "electionis_bg": {
+      "ver": "1.0.3",
+      "uuid": "b85e8f1a-b837-447a-848a-2dcd7b823df3",
+      "rawTextureUuid": "6051780e-a922-43cd-a8d2-acb58171968a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 846,
+      "height": 838,
+      "rawWidth": 846,
+      "rawHeight": 838,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

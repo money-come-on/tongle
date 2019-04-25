@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "11312b78-af37-4611-9ca4-ae127016b069",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "battle_dalbello_item_bg": {
+      "ver": "1.0.3",
+      "uuid": "c97709f8-3a23-4784-bf2e-4ba340f8389a",
+      "rawTextureUuid": "11312b78-af37-4611-9ca4-ae127016b069",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 113,
+      "height": 49,
+      "rawWidth": 113,
+      "rawHeight": 49,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

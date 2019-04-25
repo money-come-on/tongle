@@ -1,0 +1,154 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "join_room",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "main_img_btnBack": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": 20
+            },
+            {
+              "frame": 2.9833333333333334,
+              "value": 20
+            },
+            {
+              "frame": 3.966666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "main_btn_joinRoom": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": [
+                0,
+                -28
+              ]
+            },
+            {
+              "frame": 4.966666666666667,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "main_btn_joinRoom/start/s1/1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.2,
+              "value": 0
+            },
+            {
+              "frame": 2.533333333333333,
+              "value": 255
+            },
+            {
+              "frame": 2.816666666666667,
+              "value": 0
+            },
+            {
+              "frame": 4.516666666666667,
+              "value": 0
+            },
+            {
+              "frame": 4.75,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "main_btn_joinRoom/start/s2/1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.2,
+              "value": 0
+            },
+            {
+              "frame": 2.533333333333333,
+              "value": 255
+            },
+            {
+              "frame": 2.816666666666667,
+              "value": 0
+            },
+            {
+              "frame": 4.516666666666667,
+              "value": 0
+            },
+            {
+              "frame": 4.75,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "main_btn_joinRoom/start/s3/1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.2,
+              "value": 0
+            },
+            {
+              "frame": 2.533333333333333,
+              "value": 255
+            },
+            {
+              "frame": 2.816666666666667,
+              "value": 0
+            },
+            {
+              "frame": 4.516666666666667,
+              "value": 0
+            },
+            {
+              "frame": 4.75,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

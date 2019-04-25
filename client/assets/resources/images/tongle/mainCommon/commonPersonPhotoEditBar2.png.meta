@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9020a2e4-14a2-49f9-abbf-a82d1fd50892",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "commonPersonPhotoEditBar2": {
+      "ver": "1.0.3",
+      "uuid": "59d245b1-2263-4191-bdc3-77d02867c43a",
+      "rawTextureUuid": "9020a2e4-14a2-49f9-abbf-a82d1fd50892",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 86,
+      "height": 86,
+      "rawWidth": 86,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

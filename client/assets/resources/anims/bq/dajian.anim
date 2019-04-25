@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dajian",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7d2c84ae-2a9f-4f0f-8894-55dca19a456d"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "a71329f0-2dc3-4791-8318-9b8078f82237"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "bce9c068-c82d-49c6-b856-7ddb54779fac"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "676876a3-eefa-49e2-99d4-7e016680bdd9"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "676876a3-eefa-49e2-99d4-7e016680bdd9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9cbe8d0d-5fb9-4a99-92b1-a005a41dc07d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "art_font_teshu": {
+      "ver": "1.0.3",
+      "uuid": "27a17ba3-8de4-4e08-a1d2-eafc12031c82",
+      "rawTextureUuid": "9cbe8d0d-5fb9-4a99-92b1-a005a41dc07d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 112,
+      "height": 35,
+      "rawWidth": 116,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

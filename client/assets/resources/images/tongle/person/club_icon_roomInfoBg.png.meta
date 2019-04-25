@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f667ea8e-a4b6-4b3d-827d-2ed638736ad7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "club_icon_roomInfoBg": {
+      "ver": "1.0.3",
+      "uuid": "667f4b7e-2180-4601-b0c5-53aea08bf48b",
+      "rawTextureUuid": "f667ea8e-a4b6-4b3d-827d-2ed638736ad7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 47,
+      "rawWidth": 413,
+      "rawHeight": 47,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

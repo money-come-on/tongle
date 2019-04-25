@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5ce2609f-9d7e-4dc7-99f9-705bb4d0092f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "room_startGame": {
+      "ver": "1.0.3",
+      "uuid": "219c89bc-b610-43e9-b07e-f3d7ed496e6e",
+      "rawTextureUuid": "5ce2609f-9d7e-4dc7-99f9-705bb4d0092f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 286,
+      "height": 54,
+      "rawWidth": 286,
+      "rawHeight": 54,
+      "borderTop": 6,
+      "borderBottom": 6,
+      "borderLeft": 6,
+      "borderRight": 7,
+      "subMetas": {}
+    }
+  }
+}

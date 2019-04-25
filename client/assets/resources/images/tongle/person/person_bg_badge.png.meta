@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e40a8d0a-d3b5-44d2-ab91-0278c04ac33f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "person_bg_badge": {
+      "ver": "1.0.3",
+      "uuid": "7f6701f7-7cca-4db4-abe2-3991e2848823",
+      "rawTextureUuid": "e40a8d0a-d3b5-44d2-ab91-0278c04ac33f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 115,
+      "height": 41,
+      "rawWidth": 115,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

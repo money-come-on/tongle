@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "31dbf2b5-7863-4218-8765-8011f1687f05",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "battle_power_pink_4": {
+      "ver": "1.0.3",
+      "uuid": "33d253cb-c0c7-40d7-b828-a783c4f2b995",
+      "rawTextureUuid": "31dbf2b5-7863-4218-8765-8011f1687f05",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 51,
+      "height": 27,
+      "rawWidth": 51,
+      "rawHeight": 27,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

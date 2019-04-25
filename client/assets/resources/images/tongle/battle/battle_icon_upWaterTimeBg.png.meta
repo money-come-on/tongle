@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "036d380f-e21c-481d-aeb5-3ae291f3b3c4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "battle_icon_upWaterTimeBg": {
+      "ver": "1.0.3",
+      "uuid": "1f092904-6f7b-436f-a954-58624afd1047",
+      "rawTextureUuid": "036d380f-e21c-481d-aeb5-3ae291f3b3c4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 88,
+      "height": 59,
+      "rawWidth": 88,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

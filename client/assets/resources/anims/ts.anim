@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ts",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.3833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.3
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 1.2
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.3
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 1.2
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 1
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 1.1666666666666667,
+          "value": 255
+        },
+        {
+          "frame": 1.3833333333333333,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

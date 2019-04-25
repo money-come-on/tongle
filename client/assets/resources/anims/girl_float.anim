@@ -1,0 +1,16 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "girl_float",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 54,
+  "curveData": {
+    "comps": {
+      "cc.Widget": {}
+    }
+  },
+  "events": []
+}

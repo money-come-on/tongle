@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "165b8bf4-7774-44a5-affc-ad621871ccb3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "friend_item_type_dalbelloLaizi": {
+      "ver": "1.0.3",
+      "uuid": "7bb44334-4949-45f9-b636-87b750613ac3",
+      "rawTextureUuid": "165b8bf4-7774-44a5-affc-ad621871ccb3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 102,
+      "height": 17,
+      "rawWidth": 102,
+      "rawHeight": 17,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

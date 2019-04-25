@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "33de4871-12f6-495a-84c7-0cd2c96cb5d2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "battle_dalbello_clearingBg": {
+      "ver": "1.0.3",
+      "uuid": "38863493-f0b7-45bb-9a73-cb6748993894",
+      "rawTextureUuid": "33de4871-12f6-495a-84c7-0cd2c96cb5d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 585,
+      "height": 115,
+      "rawWidth": 585,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

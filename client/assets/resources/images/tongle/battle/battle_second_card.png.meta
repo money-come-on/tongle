@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "07a4f16f-93c8-4008-81b3-53faa58ec737",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "battle_second_card": {
+      "ver": "1.0.3",
+      "uuid": "925de593-e4aa-47c6-bd13-b324f39b14d3",
+      "rawTextureUuid": "07a4f16f-93c8-4008-81b3-53faa58ec737",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 59,
+      "height": 31,
+      "rawWidth": 59,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
