@@ -7,23 +7,7 @@
   ],
   "design-resolution-height": 640,
   "design-resolution-width": 960,
-  "excluded-modules": [
-    "ParticleSystem",
-    "TiledMap",
-    "Spine Skeleton",
-    "PageView",
-    "PageViewIndicator",
-    "VideoPlayer",
-    "WebView",
-    "MotionStreak",
-    "Graphics",
-    "DragonBones",
-    "RenderTexture",
-    "Chipmunk",
-    "Camera",
-    "Intersection",
-    "Native NetWork"
-  ],
+  "excluded-modules": [],
   "facebook": {
     "appID": "",
     "audience": {
@@ -39,13 +23,13 @@
   "group-list": [
     "default"
   ],
-  "last-module-event-record-time": 1555943771160,
+  "last-module-event-record-time": 1556777817227,
   "simulator-orientation": false,
   "simulator-resolution": {
     "height": 640,
     "width": 960
   },
-  "start-scene": "4a1acad9-ce88-4334-aa62-bf23a5ccc79e",
+  "start-scene": "current",
   "use-customize-simulator": false,
   "use-project-simulator-setting": false
 }
